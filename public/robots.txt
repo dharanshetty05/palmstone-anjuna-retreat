@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palmstone-anjuna.vercel.app/sitemap.xml

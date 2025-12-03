@@ -31,7 +31,7 @@ export const metadata = {
     title: "Palmstone Anjuna Retreat",
     description:
       "A peaceful stay surrounded by nature with quick WhatsApp booking.",
-    url: "https://palmstone-demo.vercel.app/", // update after deploy
+    url: "https://palmstone-anjuna.vercel.app/", // update after deploy
     siteName: "Palmstone Anjuna Retreat",
     images: [
       {
